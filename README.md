@@ -51,6 +51,11 @@ Previously HSC from Fergusson College, Pune (83.5%). Hands-on experience in auto
 - Unsupervised Learning
 - ![PyTorch CNNs](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
+<div align="center">
+
+![Tanmay's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=TanmayKhomane13&theme=rogue&color=FF6B6B&line=FFEB3B&point=00D4AA&custom_title=Tanmay%27s%20GitHub%20Activity&area=true&hide_border=true&days=30)
+
+</div>
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-khomane-01ba60315)
