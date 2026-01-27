@@ -16,7 +16,7 @@ Previously HSC from Fergusson College, Pune (83.5%). Hands-on experience in auto
 
 ## 🎮 Featured Projects
 - 🕹️ **[The Black Cave - Lost Treasure](https://tanmay-khomane13.itch.io/the-black-cave-lost-treasure)**: Fast-paced pixel-art platformer. Explore caves, dodge traps, battle skeletons, collect treasures with smooth controls and dynamic animations.
-- - 🕹️ **[The Forweaver](https://tanmay-khomane13.itch.io/the-formweaver)**: The Formweaver is a pixel art platformer where a wizard toggles between light and dark forms to master dual worlds. Light reveals glowing paths but attracts foes; dark enables stealthy strikes but obscures vision. Switch mid-air to smash form-specific enemies, collect hidden orbs, and solve duality puzzles via barriers only one form can pass.
+- 🕹️ **[The Forweaver](https://tanmay-khomane13.itch.io/the-formweaver)**: The Formweaver is a pixel art platformer where a wizard toggles between light and dark forms to master dual worlds. Light reveals glowing paths but attracts foes; dark enables stealthy strikes but obscures vision. Switch mid-air to smash form-specific enemies, collect hidden orbs, and solve duality puzzles via barriers only one form can pass.
 - 🤖 **[Tumor Classification System](https://github.com/TanmayKhomane13/Tumor-Classification-System)**: Dual pipeline—logistic regression on clinical features + PyTorch CNN on X-ray images for benign/malignant tumor detection.
 - 🌐 **[ArcadeFox Studio](https://arcadefox-studio.netlify.app/)**: Game dev portfolio showcase.
 
