@@ -1,6 +1,11 @@
 <div align="center">
 
-# 👾 Tanmay Khomane - Game Developer & AI/ML Enthusiast 👾
+<div align="center">
+
+# Tanmay Khomane  
+
+</div>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Game+Developer,AIML+Engineer,PyTorch+CNNs+Builder&font=%22Press+Start+2P%22&size=18&pause=1500&width=950&height=70&center=true&color=F7EF3DFF&background=0D1117)
 
