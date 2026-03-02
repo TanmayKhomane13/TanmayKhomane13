@@ -83,7 +83,7 @@ Supervised Learning • Unsupervised Learning • CNNs
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayKhomane13&bg_color=0d1117&color=9ffcff&line=00f5ff&point=ff6a00&area=true&hide_border=true&custom_title=Tanmay%20Khomane%20GitHub%20Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayKhomane13&bg_color=0d1117&color=9ffcff&line=00f5ff&point=ff6a00&area=true&hide_border=true&custom_title=Tanmay's%20%20GitHub%20Activity"/>
 </p>
 
 <h2 align="center">🌐 Connect</h2>
