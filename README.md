@@ -72,20 +72,6 @@ Game Physics • 2D Animation • Level Design • UI/UX Implementation
 Supervised Learning • Unsupervised Learning • CNNs
 </p>
 
-
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="28" style="vertical-align: middle;" />
-  GitHub Stats
-</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TanmayKhomane13&theme=github-dark&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6a00&currStreakLabel=00f5ff&sideLabels=9ffcff&dates=9ffcff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayKhomane13&bg_color=0d1117&color=9ffcff&line=00f5ff&point=ff6a00&area=true&hide_border=true&custom_title=Tanmay's%20%20GitHub%20Activity"/>
-</p>
-
 <h2 align="center">🌐 Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/tanmay-khomane-01ba60315"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
