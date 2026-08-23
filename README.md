@@ -20,13 +20,6 @@ Aspiring Game Developer & AI/ML Enthusiast pursuing B.E. in Computer Engineering
 Passionate about arcade-style games, pixel art, and data-driven predictions.
 Previously HSC from Fergusson College, Pune (83.5%). Hands-on experience in automotive photography/videography and content creation for racing teams.
 
-## 🎮 Featured Projects
-- 🕹️ **[The Black Cave - Lost Treasure](https://tanmay-khomane13.itch.io/the-black-cave-lost-treasure)**: Fast-paced pixel-art platformer. Explore caves, dodge traps, battle skeletons, collect treasures with smooth controls and dynamic animations.
-- 🕹️ **[The Formweaver](https://tanmay-khomane13.itch.io/the-formweaver)**: The Formweaver is a pixel art platformer where a wizard toggles between light and dark forms to master dual worlds. Light reveals glowing paths but attracts foes; dark enables stealthy strikes but obscures vision. Switch mid-air to smash form-specific enemies, collect hidden orbs, and solve duality puzzles via barriers only one form can pass.
-- **[Electron.AI](https://github.com/TanmayKhomane13/Electron.AI)**: A real-time electricity demand forecasting system that predicts load from t+1 to t+24 hours using historical data, live weather inputs, and system time synchronization. Built from scratch with Scikit-Learn, it achieves 100.39 MW MAE for smart grid decision support.
-- **[Tumor Classification System](https://github.com/TanmayKhomane13/Tumor-Classification-System)**: Dual pipeline—logistic regression on clinical features + PyTorch CNN on X-ray images for benign/malignant tumor detection.
-
-
 ## 📚 Certifications
 - 🎓 **Game Design and Development using Unity Specialization** - Michigan State University (Coursera)
 - 🧠 **Stanford Machine Learning Specialization** - Coursera
