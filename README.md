@@ -1,74 +1,85 @@
-<div align="center">
+ <div align="center">
 
-<div align="center">
+# Tanmay Khomane
 
-# Tanmay Khomane  
+**AI Engineer · Game Developer**
+
+*Building intelligent systems and interactive worlds.*
+
+[![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-7C83FD?style=flat-square)](https://github.com/TanmayKhomane13)
+[![Unity](https://img.shields.io/badge/Game%20Development-222222?style=flat-square&logo=unity&logoColor=white)](https://tanmay-khomane13.itch.io/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/TanmayKhomane13)
+
+[GitHub](https://github.com/TanmayKhomane13) · [LinkedIn](https://www.linkedin.com/in/tanmay-khomane-01ba60315) · [Portfolio](https://arcadefox-studio.netlify.app/) · [Games](https://tanmay-khomane13.itch.io/)
 
 </div>
 
+---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Game+Developer,AIML+Engineer,PyTorch+CNNs+Builder&font=%22Press+Start+2P%22&size=18&pause=1500&width=950&height=70&center=true&color=F7EF3DFF&background=0D1117)
+## 👨‍💻 About Me
 
-[![Game Dev](https://img.shields.io/badge/Game%20Dev-%23FF6B6B?style=for-the-badge&logo=itch.io&logoColor=white)](https://tanmay-khomane13.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-khomane-01ba60315)
-[![Portfolio](https://img.shields.io/badge/ArcadeFox-%2300D4AA?style=for-the-badge&logo=react&logoColor=white)](https://arcadefox-studio.netlify.app/)
+Computer Engineering student at **Pimpri Chinchwad College of Engineering, Pune**, with a CGPA of **8.64**.
+
+- 🧠 **AI Engineering:** Building RAG pipelines, LLM-powered applications, and ML-based systems.
+- 🎮 **Game Development:** Developing gameplay systems, physics, animations, and interactive worlds using Unity.
+- 🚀 **Current Focus:** Practical AI engineering, LLM fine-tuning, and intelligent applications.
+
+## 🛠️ Tech Stack
+
+### 🧠 AI Engineering & Machine Learning
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn" title="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas"/>
+</p>
+
+`LLMs` · `RAG` · `NLP` · `PEFT / LoRA` · `FAISS` · `Machine Learning`
+
+### 🎮 Game Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="42" height="42" alt="Unity" title="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#"/>
+</p>
+
+`Unity 2D / 3D` · `Gameplay Programming` · `Game Physics` · `Animation` · `Level Design` · `UI Implementation`
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python"/>
+</p>
+
+### 🔧 Tools & Workflow
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" title="Jupyter"/>
+</p>
+
+## 📜 Certifications
+
+- 🎮 Game Design and Development using Unity Specialization — Michigan State University
+- 🧠 Machine Learning Specialization — Stanford University
+- 🐍 Learn Python Programming Masterclass — Udemy
+- ⚙️ Beginning C++ Programming — Udemy
 
 </div>
 
-# 🚀 About Me
-Aspiring Game Developer & AI/ML Enthusiast pursuing B.E. in Computer Engineering at Pimpri Chinchwad College of Engineering (CGPA 8.9). Proficient in C, C++, C#, Python, Unity 2D (physics, animation, level design), and AI/ML (Supervised & Unsupervised Learning, PyTorch CNNs).
-Passionate about arcade-style games, pixel art, and data-driven predictions.
-Previously HSC from Fergusson College, Pune (83.5%). Hands-on experience in automotive photography/videography and content creation for racing teams.
+---
 
-## 📚 Certifications
-- 🎓 **Game Design and Development using Unity Specialization** - Michigan State University (Coursera)
-- 🧠 **Stanford Machine Learning Specialization** - Coursera
-- 🐍 **Learn Python Programming Masterclass** - Udemy
-- 🔧 **Beginning C++ Programming - From Beginner To Beyond** - Udemy
+### 🌐 Let's Connect
 
-## 💼 Experience
-- **Content Creation Team Head**, Thunderboltz Racing (Aug 2025–Present): Branding, automotive photography, marketing strategy.
-- **Automotive Photographer/Videographer**, Team Nashorns (Feb–Jun 2025): Product showcases and promotional content.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanmayKhomane13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-khomane-01ba60315)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C4A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arcadefox-studio.netlify.app/)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://tanmay-khomane13.itch.io/)
 
-## 🛠️ Technical Skills
-
-**Languages**
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/>
-</p>
-
-## 🎮 Game Development
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="90"/>
-</p>
-
-<p align="center">
-Game Physics • 2D Animation • Level Design • UI/UX Implementation
-</p> 
-
-## 🧠 AI / ML
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="70"/>
-</p>
-
-<p align="center">
-Supervised Learning • Unsupervised Learning • CNNs
-</p>
-
-<h2 align="center">🌐 Connect</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanmay-khomane-01ba60315"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TanmayKhomane13"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tanmay-khomane13.itch.io/"><img src="https://cdn.simpleicons.org/itchdotio/white" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:khomanetanmay13@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="48" /></a>
-</p>
+</div>
