@@ -77,11 +77,23 @@ Computer Engineering student at **Pimpri Chinchwad College of Engineering, Pune*
 
 ---
 
+## Recent Project
+
+### Staxio — AI-Powered Subscription Management System
+
+Developed during an 8-hour virtual hackathon, Staxio combines subscription management with an AI assistant for internal business operations.
+
+<div align="center">
+  <img src="assets/staxio-demo.gif" width="640" alt="Staxio Demo"/>
+</div>
+
+---
+
 ## Certifications
 
-- Generative AI Engineering with LLMs Specialization
-- Machine Learning Specialization — Stanford University
-- Game Design and Development using Unity Specialization — Michigan State University
+- Generative AI Engineering with LLMs Specialization - IBM, Coursera
+- Machine Learning Specialization — Stanford University, Coursera
+- Game Design and Development using Unity Specialization — Michigan State University, Coursera
 - Learn Python Programming Masterclass — Udemy
 - Beginning C++ Programming — Udemy
 
