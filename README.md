@@ -26,14 +26,10 @@ Computer Engineering student at **Pimpri Chinchwad College of Engineering, Pune*
 - Building RAG pipelines, fine-tuned models and AI-powered applications.
 - Unity Game Developer and Founder of **ArcadeFox Studio**.
 - Passionate about practical engineering, problem-solving and continuous learning.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKhomane13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
 ---
 
 ## Tech Stack
+
 
 ### AI Engineering & Machine Learning
 
