@@ -1,5 +1,11 @@
 <div align="center">
 
+<div align="center">
+  <img src="assets/banner.jpg" width="100%" alt="Tanmay Khomane - AI/ML Engineer and Unity Game Developer"/>
+</div>
+
+<br/>
+
 # Tanmay Khomane
 
 ### AI/ML Engineer | Unity Game Developer
