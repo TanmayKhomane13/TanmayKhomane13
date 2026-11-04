@@ -84,7 +84,7 @@ Computer Engineering student at **Pimpri Chinchwad College of Engineering, Pune*
 Developed during an 8-hour virtual hackathon, Staxio combines subscription management with an AI assistant for internal business operations.
 
 <div align="center">
-  <img src="assets/staxio-demo.gif" width="640" alt="Staxio Demo"/>
+  <img src="assets/Staxio-demo.gif" width="640" alt="Staxio Demo"/>
 </div>
 
 ---
